@@ -28,6 +28,8 @@ How to Use:
 
 6-click exit to close the app
 
+7-if show error go to cmd and install librarys (name and install code of librarys in frist of main.py)
+
 
 i hope you like it
 
@@ -61,6 +63,8 @@ M.Sython :)
 5-با زدن دکمه M.Sython میتونید اطلاعات برنامه رو ببینید
 
 6-با دکمه exit هم میتونید خارج بشید
+
+7-اگر ارور دریافت کردید وارد خط فرمان شوید و کتابخوانه ها را نصب کنید (نام و کد نصب کتابخانه ها در فایل main.py موجود است
 
 امیدوارم خوشتون بیاد!
 
